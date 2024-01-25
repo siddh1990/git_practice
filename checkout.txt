@@ -1,3 +1,4 @@
 first commit
 second commit
 third
+conflict_change
